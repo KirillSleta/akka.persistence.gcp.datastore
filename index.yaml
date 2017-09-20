@@ -1,0 +1,10 @@
+indexes:
+
+- kind: Journal
+  ancestor: yes
+  properties:
+    - name: SequenceNr
+- kind: Snapshot
+  ancestor: yes
+  properties:
+    - name: SequenceNr
